@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "123456",
+        "sex": "男",
+        "telephone": "17827713306",
+        "e_mail": "1434729527@qq.com",
+        "sign": "风一般的男子",
+        "role": "管理员"
+    },
+    {
+        "username": "wei",
+        "password": "123456",
+        "sex": "男",
+        "telephone": "",
+        "e_mail": "",
+        "sign": "",
+        "role": "用户"
+    }
+]
